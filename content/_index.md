@@ -82,18 +82,17 @@ sections:
               * Single cell RNA-seq data analysis:<br>
                 Analyzed single-cell data from pulmonary samples to gain insights into cellular het- erogeneity and molecular changes in                    disease conditions. Employed bioinformatics tools to preprocess and interpret single-cell RNA sequencing data, revealing                    critical cellular subpopulations and their functional roles.
 
-       - title: Junior Bioinformatician: <br>
-  
+      - title: Junior Bioinformatician: <br>
+        company: BostonGene corp, Boston, MA
+        company_url: ''
+        company_logo: org-x
+        location: California
+        date_start: '2021-01-01'
+        date_end: '2020-12-31'
+        description: |2-
 
-          company: BostonGene corp, Boston, MA
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2021-01-01'
-          date_end: '2020-12-31'
-          description: |2-
-               * Deconvolution of cancer associated fibroblasts using machine learning methods for enhanced pateint diagnosis:<br>
-               Actively contributed to the development of a project on classifying fibroblasts in vari- ous tumors’ microenvironment using                 machine learning algorithms, which resulted in my thesis. Work on this project was continued and results were submitted to AACR.
+            * Deconvolution of cancer associated fibroblasts using machine learning methods for enhanced pateint diagnosis:<br>
+               Actively contributed to the development of a project on classifying fibroblasts in vari- ous tumors’ microenvironment using                 machine learning algorithms, which resulted in my thesis. Work on this project was continued and results were submitted to                   AACR.
               * Machine learning models validation:<br>
               Developed a script to validate machine learning models that deconvolve sample cells’ percentages based on sequencing data.
               * Enhanced cross-team communication:<br>
