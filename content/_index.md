@@ -81,25 +81,25 @@ sections:
                 Researched spatial transcriptomics platforms (CosMx, 10x Xenium in Situ) that helped bringing these technologies to the                     lab. Utilized various best-practice com- putational tools and techniques to decipher spatial patterns and identify                          potential biomarkers associated with pulmonary diseases, assessed publicly available datasets.
               * Single cell RNA-seq data analysis:<br>
                 Analyzed single-cell data from pulmonary samples to gain insights into cellular het- erogeneity and molecular changes in                    disease conditions. Employed bioinformatics tools to preprocess and interpret single-cell RNA sequencing data, revealing                    critical cellular subpopulations and their functional roles.
-        - title: Junior Bioinformatician: <br>
+    
+        - title: Junior Bioinformatician
           company: BostonGene corp, Boston, MA
           company_url: ''
           company_logo: org-x
           location: California
           date_start: '2021-01-01'
-          date_end: '2020-12-31'
+          date_end: '2022-11-15'
           description: |2-
               Projects:
-
-                * Deconvolution of cancer associated fibroblasts using machine learning methods for enhanced pateint diagnosis:<br>
-               Actively contributed to the development of a project on classifying fibroblasts in vari- ous tumors’ microenvironment using                 machine learning algorithms, which resulted in my thesis. Work on this project was continued and results were submitted to                   AACR.
-                * Machine learning models validation:<br>
-              Developed a script to validate machine learning models that deconvolve sample cells’ percentages based on sequencing data.
-                * Enhanced cross-team communication:<br>
-              Developed standard report form of RNA samples analysis to share results efficiently across multiple bioinformatics teams.
-                * Reproducible programming and RNA-seq analysis:<br>
-              Performed code debugging, analysis, and filtration of RNA-seq lab samples.
-               
+        
+              * Deconvolution of cancer associated fibroblasts using machine learning methods for enhanced patient diagnosis:<br>
+                Actively contributed to the development of a project on classifying fibroblasts in various tumors’ microenvironment using machine learning algorithms, which resulted in my thesis. Work on this project was continued and results were submitted to AACR.
+              * Machine learning models validation:<br>
+                Developed a script to validate machine learning models that deconvolve sample cells’ percentages based on sequencing data.
+              * Enhanced cross-team communication:<br>
+                Developed standard report form of RNA samples analysis to share results efficiently across multiple bioinformatics teams.
+              * Reproducible programming and RNA-seq analysis:<br>
+                Performed code debugging, analysis, and filtration of RNA-seq lab samples.
     design:
       columns: '2'
   - block: accomplishments
