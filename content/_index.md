@@ -63,10 +63,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Post-baccalaureate researcher
-          company: Northwestern University, Chicago, IL
+          company: Northwestern University, Chicago
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Illinois
           date_start: '2022-11-15'
           date_end: ''
           description: |2-
@@ -86,7 +86,7 @@ sections:
           company: BostonGene corp, Boston, MA
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Massachusetts 
           date_start: '2021-01-01'
           date_end: '2022-11-15'
           description: |2-
