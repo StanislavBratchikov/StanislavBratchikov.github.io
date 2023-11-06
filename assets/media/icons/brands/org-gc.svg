@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 37.65698 27">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        clip-path: url(#a);
+      }
+
+      .c {
+        clip-path: url(#c);
+      }
+
+      .d {
+        fill: #4a4b96;
+      }
+
+      .e {
+        clip-path: url(#d);
+      }
+    </style>
+    <clipPath id="a">
+      <rect class="a" x="-297.19769" y="-240.45351" width="828" height="603.00002"/>
+    </clipPath>
+    <clipPath id="c">
+      <rect class="a" x="0.7143" y="0.7475" width="139.24" height="26.005"/>
+    </clipPath>
+    <clipPath id="d">
+      <rect class="a" x="0.7023" y="0.7465" width="139.25101" height="26.005"/>
+    </clipPath>
+  </defs>
+  <title>Northwestern Medicine logo without text</title>
+  <g class="b">
+    <g class="b">
+      <g>
+        <g class="c">
+          <polygon class="d" points="3.502 4.656 15.296 26.551 21.847 26.551 8.226 0.77 0.703 0.77 0.703 26.551 3.502 26.551 3.502 4.656"/>
+        </g>
+        <g class="e">
+          <polygon class="d" points="31.186 26.551 36.987 26.551 36.987 0.77 31.196 0.77 24.378 13.032 17.893 0.77 11.262 0.77 22.567 22.127 31.196 6.561 31.186 26.551"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
