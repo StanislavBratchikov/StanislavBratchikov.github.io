@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Stanislav Bratchikov
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Stanislav
+last_name: Bratchikov
 
 # Status emoji
 status:
@@ -17,74 +17,68 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Reseacher in applied machine learning in biomedicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Northwestern University
+    url: https://www.feinberg.northwestern.edu/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include analysis of -omics, Electronic health records, flow cytomtetry using machine learning methods.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Scalable computational biology algorithms
+  - Personalized healthcare AI
+  - Clinician-involved algorithm development
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Biophysics
+      institution: Lomonosov Moscow State Univeristy
+      year: 2022
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+#skills:
+#  - name: Technical
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: python
+#        icon_pack: fab
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-line
+#        icon_pack: fas
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: database
+#        icon_pack: fas
+  #- name: Hobbies
+  #  color: '#eeac02'
+ #   color_border: '#f0bf23'
+ #   items:
+ #     - name: Hiking
+ #       description: ''
+ #       percent: 60
+ #       icon: person-hiking
+ #       icon_pack: fas
+ #     - name: Cats
+ #       description: ''
+ #      percent: 100
+ #       icon: cat
+ #       icon_pack: fas
+ #     - name: Photography
+ #       description: ''
+ #       percent: 80
+ #       icon: camera-retro
+ #       icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -105,10 +99,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/StanislavBratchikov
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +114,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a post baccalaureate researcher at the Pulmonary department of Northwestern University,Chicago who is focused on applying and developing interpretable machine learning methods to biomedicine domain. My goal is to bridge the gap between clinicians and computational researches building interpreatable and scalable algorithms and pipelines that handle multimodal data such as Electorinc Health Records, -omics and flow cytometry data enhancing field of personolised medecine.
+As aspiring PhD student who is looking to study Biomedical and Compitational Biology, I want to form active colloborations with practicing clinicians to help develop accurate models for handling multi modal biological data. These models will be intergrated into hospital workflows to aid clinical decision making to tailor patients’ care to their unique clinical and genomic traits. 
 {style="text-align: justify;"}
