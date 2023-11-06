@@ -72,14 +72,14 @@ sections:
           description: |2-
               Projects:
 
-              * Automated flow cytometry pipeline: <br> 
+              * **Automated flow cytometry pipeline:** <br> 
                 
                 Implemented an innovative automated flow cytometry gating pipeline using gradient boosting models, significantly reducing                   data analysis time for wet bench researchers. By automating the data processing and classification steps, the pipeline                      improved workflow efficiency and allowed for quicker access to critical insights. This work was used for multiple projects                  within lab. First author paper based on this work is in progress.
-              * Differential gene expression methods benchmarking: <br>
+              * **Differential gene expression methods benchmarking:** <br>
                 Collaborated with [computational group](https://www.mimuw.edu.pl/~szczurek/) from the university of Warsaw and compared traditional differential gene expression                   methods to deep learning based approaches to establish a baseline. The results of this work were essential for downstream                   projects of this collaboration.
-              * Single cell spatial transcriptomics analysis: <br>
+              * **Single cell spatial transcriptomics analysis:** <br>
                 Researched spatial transcriptomics platforms (CosMx, 10x Xenium in Situ) that helped bringing these technologies to the                     lab. Utilized various best-practice com- putational tools and techniques to decipher spatial patterns and identify                          potential biomarkers associated with pulmonary diseases, assessed publicly available datasets.
-              * Single cell RNA-seq data analysis:<br>
+              * **Single cell RNA-seq data analysis:**<br>
                 Analyzed single-cell data from pulmonary samples to gain insights into cellular het- erogeneity and molecular changes in                    disease conditions. Employed bioinformatics tools to preprocess and interpret single-cell RNA sequencing data, revealing                    critical cellular subpopulations and their functional roles.
     
         - title: Junior Bioinformatician
@@ -92,13 +92,13 @@ sections:
           description: |2-
               Projects:
         
-              * Deconvolution of cancer associated fibroblasts using machine learning methods for enhanced patient diagnosis:<br>
+              * **Deconvolution of cancer associated fibroblasts using machine learning methods for enhanced patient diagnosis:**<br>
                 Actively contributed to the development of a project on classifying fibroblasts in various tumors’ microenvironment using machine learning algorithms, which resulted in my thesis. Work on this project was continued and results were submitted to AACR.
-              * Machine learning models validation:<br>
+              * **Machine learning models validation:**<br>
                 Developed a script to validate machine learning models that deconvolve sample cells’ percentages based on sequencing data.
-              * Enhanced cross-team communication:<br>
+              * **Enhanced cross-team communication:**<br>
                 Developed standard report form of RNA samples analysis to share results efficiently across multiple bioinformatics teams.
-              * Reproducible programming and RNA-seq analysis:<br>
+              * **Reproducible programming and RNA-seq analysis:**<br>
                 Performed code debugging, analysis, and filtration of RNA-seq lab samples.
     design:
       columns: '2'
