@@ -62,17 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Post-baccalaureate researcher
+          company: Northwestern University
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: 'Nov 2022'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
+              * Automated flow cytometry pipeline: <br> 
+                
+                Implemented an innovative automated flow cytometry gating pipeline using gradient boosting models, significantly reducing                   data analysis time for wet bench researchers. By automating the data processing and classification steps, the pipeline                      improved workflow efficiency and allowed for quicker access to critical insights. This work was used for multiple projects                  within lab. First author paper based on this work is in progress.
               * Modelling
               * Deploying
         - title: Professor of Semiconductor Physics
