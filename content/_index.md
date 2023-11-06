@@ -67,7 +67,7 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: 'Nov 2022'
+          date_start: '2022-11-15"'
           date_end: ''
           description: |2-
               Responsibilities include:
