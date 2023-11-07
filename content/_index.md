@@ -229,7 +229,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: posters
     content:
       title: Posters
       filters:
