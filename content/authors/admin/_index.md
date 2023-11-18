@@ -117,5 +117,5 @@ highlight_name: true
 I am a post baccalaureate researcher at the Pulmonary department of Northwestern University, Chicago, who is focused on developing and applying interpretable machine learning methods to biomedicine domain. My goal is to bridge the gap between clinicians and computational researchers building interpreatable and scalable algorithms and pipelines that handle multimodal data such as Electorinc Health Records, -omics and flow cytometry data enhancing field of personolised medecine.
 <br>
 <br>
-As aspiring PhD student who is looking to study Biomedical and Compitational Biology, I want to form active colloborations with practicing clinicians to help develop accurate models for handling multi modal biological data. These models will be intergrated into hospital workflows to aid clinical decision making to tailor patients’ care to their unique clinical and genomic traits. 
+As aspiring PhD student who is looking to study Biomedical and Compitational Biology, I want to form active colloborations with practicing clinicians to help develop accurate models for handling multi modal biological data. These models will be intergrated into hospital workflows to aid clinical decision making and to tailor patients’ care to their unique clinical and genomic traits. 
 {style="text-align: justify;"}
