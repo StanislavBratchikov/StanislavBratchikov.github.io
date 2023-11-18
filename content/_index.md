@@ -74,14 +74,13 @@ sections:
 
               * **Automated flow cytometry pipeline:** <br> 
                 
-                Implemented an innovative automated flow cytometry gating pipeline using gradient boosting models, significantly reducing                   data analysis time for wet bench researchers. By automating the data processing and classification steps, the pipeline                      improved workflow efficiency and allowed for quicker access to critical insights. This work was used for multiple projects                  within lab. First author paper based on this work is in progress.
+                 Led a year-long [https://docs.google.com/presentation/d/10BWF-NMwT0HdYpbd-NxwFP6GKXvv9o0qpw4vTQvvwDQ/edit?usp=sharing](project) to implement an innovative automated flow cytometry data analysis pipeline using gradient boosting models, significantly reducing data analysis time for wet bench researchers. <br> By automating the data processing and classification steps, the pipeline improved workflow efficiency and allowed for quicker access to critical insights. This work was used for multiple projects within the laboratory. First author paper based on this work is in progress.
               * **Differential gene expression methods benchmarking:** <br>
-                Collaborated with [computational group](https://www.mimuw.edu.pl/~szczurek/) from the university of Warsaw and compared traditional differential gene expression                   methods to deep learning based approaches to establish a baseline. The results of this work were essential for downstream                   projects of this collaboration.
+                Worked with [https://www.mimuw.edu.pl/~szczurek/](computational biology group) from the university of Warsaw on a large collaborative project focusing on the analysis of single cell RNA-seq data from hundreds of patients.<br> Benchmarked traditional approaches for differential gene expression methods vs deep learning-based approaches. The results of this work were essential for downstream tasks in this project. Publication is expected in 2024.
               * **Single cell spatial transcriptomics analysis:** <br>
-                Researched spatial transcriptomics platforms (CosMx, 10x Xenium in Situ) that helped bringing these technologies to the                     lab. Utilized various best-practice com- putational tools and techniques to decipher spatial patterns and identify                          potential biomarkers associated with pulmonary diseases, assessed publicly available datasets.
+                [https://docs.google.com/presentation/d/1l1zRh1nwhJxOKwIodAbxsXKHls5V1DgyfBAeG93__zI/edit?usp=sharing](Researched) spatial transcriptomics platforms (Nanostring CosMx, 10x Xenium) that helped bringing these technologies to the lab. Utilized various best-practice computational tools and techniques to decipher spatial patterns and identify potential biomarkers associated with pulmonary diseases, assessed publicly available datasets.
               * **Single cell RNA-seq data analysis:**<br>
-                Analyzed single-cell data from pulmonary samples to gain insights into cellular het- erogeneity and molecular changes in                    disease conditions. Employed bioinformatics tools to preprocess and interpret single-cell RNA sequencing data, revealing                    critical cellular subpopulations and their functional roles.
-    
+               Analyzed single-cell data from pulmonary samples to gain insights into cellular heterogeneity and molecular changes in disease conditions. Employed bioinformatics tools to preprocess and interpret single-cell RNA sequencing data, revealing critical cellular subpopulations and their functional roles.
         - title: Junior Bioinformatician
           company: BostonGene corp, Boston, MA
           company_url: ''
@@ -92,10 +91,10 @@ sections:
           description: |2-
               Projects:
         
-              * **Deconvolution of cancer associated fibroblasts using machine learning methods for enhanced patient diagnosis:**<br>
-                Actively contributed to the development of a project on classifying fibroblasts in various tumors’ microenvironment using machine learning algorithms, which resulted in my thesis. Work on this project was continued and results were submitted to AACR.
+              * **Cell type deconvolution of cancer- associated fibroblasts in bulk RNA-seq data using machine learning methods with the goal to improve outcome prediction in cancer patients:**<br>
+                Actively contributed to the development of a project on classifying fibroblasts in various tumors' microenvironment using machine learning algorithms, which resulted in my thesis. Work on this project was continued and results were submitted to AACR.
               * **Machine learning models validation:**<br>
-                Developed a script to validate machine learning models that deconvolve sample cells’ percentages based on sequencing data.
+                Developed a script to validate machine learning models that deconvolve sample cells' percentages based on sequencing data.
               * **Enhanced cross-team communication:**<br>
                 Developed standard report form of RNA samples analysis to share results efficiently across multiple bioinformatics teams.
               * **Reproducible programming and RNA-seq analysis:**<br>
@@ -249,35 +248,20 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to contact via email:
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: stanislav.bratchikov@northwestern.edu
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 303 E. Superior St.
+        city: Chicago
+        region: IL 
+        postcode: '60611'
         country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://twitter.com/brtchkvs'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
