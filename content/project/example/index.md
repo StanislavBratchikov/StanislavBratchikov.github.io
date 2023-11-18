@@ -1,25 +1,25 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Flow Cytometry
+summary: A machine learning classifier trained on 172 expert-annotated clinical flow cytometry samples, achieving accurate cell typing, overcoming biases, and scaling to over 1100 samples, demonstrating high accuracy and significant time savings.
 tags:
-  - Deep Learning
+  - Flow Cytometry
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ''
   focal_point: Smart
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/brtchkvs
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: https://docs.google.com/presentation/d/10BWF-NMwT0HdYpbd-NxwFP6GKXvv9o0qpw4vTQvvwDQ/edit?usp=sharing
 url_video: ''
 
 # Slides (optional).
@@ -27,15 +27,12 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+***Background:*** Multiparameter flow cytometry is an invaluable tool for translational research which provides in depth immunophenotyping of the clinical samples. Traditionally, analysis of the flow cytometry data is performed manually by experts who have to take into account both technical and biological variability. This approach is prone to expert-specific biases and does not scale to hundreds of samples. We hypothesize that a machine learning classifier can be applied to clinical flow cytometry samples and can achieve cell typing accuracy comparable to expert annotations, overcome technical variability while preserving biological variability, and scale up to hundreds of clinical samples.
+***Methods:*** We have generated a diverse set of 172 expert-annotated clinical flow cytometry samples generated from bronchoalveolar lavage fluid from patients with lung diseases, including severe pneumonia, respiratory PASC, samples from lung transplant patients, and samples from healthy volunteers. We split this dataset with a 7:3 train-validation ratio to train and optimize a model based on a gradient boosting LightGBM classifier. We have validated our model using previously annotated external dataset of hundreds of clinical samples from patients with lung diseases.
+***Results:*** After hyperparameter optimization our model achieved high classification accuracy for both common and rare cell types. Our model performed well on phenotypically distinct cell types (such as T cell subsets) or phenotypically plastic cell types (such as neutrophils and macrophages), thus, preserving biological variability. The model performed well when it was applied to a large (>1100 samples) clinical datasets from multiple studies. Our model required only ~1 second per sample, which saves about 4 mins of expert’s time for every sample.
+***Conclusions:*** We present a scalable and generalizable approach for rapid and accurate annotation of clinical samples acquired in translational research settings. Our approach addresses many issues inherent to analysis of clinical flow cytometry samples and increases reproducibility.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
