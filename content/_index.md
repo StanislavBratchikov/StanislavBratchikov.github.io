@@ -114,36 +114,48 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: ''
+          date_end: '2022-08-10'
+          date_start: '2020-09-10'
           description: |2-
             Went through extensive selection (100/5000 people) and took classes from academia and industry leaders in:
-            + Machine learning (A. Djakonov, Lomonosov Moscow State University),
-            + Data engineering (P. Klemenkov, NVIDIA),
-            + Statistics (V. Panov, Computer science department, Higher School of Economics),
-            + Linear algebra (I. Oseledets, Skoltech),
-            + Linux, Bash, and Git (A. Trunov).
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+            + Machine learning *(A. Djakonov, Lomonosov Moscow State University)*,
+            + Data engineering *(P. Klemenkov, NVIDIA)*,
+            + Statistics *(V. Panov, Computer science department, Higher School of Economics)*,
+            + Linear algebra *(I. Oseledets, Skoltech)*,
+            + Linux, Bash, and Git *(A. Trunov)*.
+          organization: AI masters
+          organization_url: https://aimasters.ru
+          title: Machine Learning and Deep Learning
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          date_start: '2022-02-01'
+          description: Computer science classes focusing on latest research in various topcis ranging from graph neural networks to usage of neural networks in bioinformatics  
+          organization: Computer Science department Higher School of Economics
+          organization_url: ''
+          title: Winter Computer Science School
           url: ''
+        - certificate_url: https://stanislavbratchikov.github.io/uploads/quantitative_genetics_certificate.pdf
+          date_end: '2021-12-21'
+          date_start: '2021-09-01'
+          description: Gained entry into genetics courses, being among the 35 students selected. Topics included Genes in populations, Complex traits genetics, Genome Wide Associated Studies.
+          organization: Moscow Insitute of Physics and Technology
+          organization_url: ''
+          title: 'Quantative genetics course by prof. Yurii Aulchenko'
+          url: ''
+        - certificate_url: https://stanislavbratchikov.github.io/uploads/summer_bioinformatics_school.pdf
+            date_end: ''
+            date_start: '2021-08-01'
+            description: Took multiple workshops on multiple topics on use of Machine learning in Bioinformatics from academia leaders:
+            + Machine Learning for Molecule Data *(Jose Miguel, University of Cambridge)*,
+            + Machine Learning in Protein Structural Bioinformatics (Cryo-EM and protein docking) *(Daisuke Kihara, Purdue University)*,
+            + Biomedical text mining and its application *(Shannkai Yan, National Institutes of Health)*,
+            + DNABERT: BERT models for genome DNA language *(Ramana Davuluri, Stony Brook University)*,
+            organization: Computer Science department Higher School of Economics
+            organization_url: ''
+            title: 'Summer School on Machine Learning in Bioinformatics'
+            url: ''
     design:
       columns: '2'
   - block: collection
