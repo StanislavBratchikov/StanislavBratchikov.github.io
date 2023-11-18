@@ -117,7 +117,7 @@ sections:
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
-          description: Went through extensive selection (100/5000 people), and took classes from academia and industry leaders in: * Machine learning *(A. Djakonov, Lomonosov Moscow State University)*, * Data engineering *(P. Klemenkov, NVIDIA)*, Statistics *(V. Panov, Computer science department, Higher School of Economics)*, * Linear algebra *(I. Oseledets, Skoltech)*, * Linux, Bash and
+          description: Went through extensive selection (100/5000 people), and took classes from academia and industry leaders in: + Machine learning *(A. Djakonov, Lomonosov Moscow State University)*, + Data engineering *(P. Klemenkov, NVIDIA)*, Statistics *(V. Panov, Computer science department, Higher School of Economics)*, + Linear algebra *(I. Oseledets, Skoltech)*, + Linux, Bash and
 Git *(A. Trunov)*.
           organization: Coursera
           organization_url: https://www.coursera.org
