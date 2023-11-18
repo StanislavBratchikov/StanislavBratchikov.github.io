@@ -63,8 +63,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Post-baccalaureate researcher
-          company: [Northwestern University](https://www.feinberg.northwestern.edu/index.html), Chicago
-          company_url: ''
+          company: Northwestern University, Chicago
+          company_url: 'https://www.feinberg.northwestern.edu/index.html'
           company_logo: org-gc
           location: Illinois
           date_start: '2022-11-15'
@@ -82,8 +82,8 @@ sections:
               * **Single cell RNA-seq data analysis:**<br>
                Analyzed single-cell data from pulmonary samples to gain insights into cellular heterogeneity and molecular changes in disease conditions. Employed bioinformatics tools to preprocess and interpret single-cell RNA sequencing data, revealing critical cellular subpopulations and their functional roles.
         - title: Junior Bioinformatician
-          company: [BostonGene Corporation](https://bostongene.com), Boston, MA
-          company_url: ''
+          company: BostonGene Corporation, Boston, MA
+          company_url: 'https://bostongene.com'
           company_logo: org-x
           location: Massachusetts 
           date_start: '2021-01-01'
