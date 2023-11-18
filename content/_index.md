@@ -126,12 +126,12 @@ sections:
             + Linux, Bash, and Git *(A. Trunov)*.
           organization: AI masters
           organization_url: https://aimasters.ru
-          title: Machine Learning and Deep Learning
+          title: Machine Learning and Deep Learning courses
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2022-02-01'
-          description: Computer science classes focusing on latest research in various topcis ranging from graph neural networks to usage of neural networks in bioinformatics  
+          description: Computer science classes focusing on latest research in various topcis ranging from graph neural networks to use of neural networks in bioinformatics  
           organization: Computer Science department Higher School of Economics
           organization_url: ''
           title: Winter Computer Science School
