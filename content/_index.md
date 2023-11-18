@@ -147,15 +147,17 @@ sections:
         - certificate_url: https://stanislavbratchikov.github.io/uploads/summer_bioinformatics_school.pdf
           date_end: ''
           date_start: '2021-08-01'
-          description: Took multiple workshops on multiple topics on use of Machine learning in Bioinformatics from academia leaders:
-          + Machine Learning for Molecule Data *(Jose Miguel, University of Cambridge)*,
-          + Machine Learning in Protein Structural Bioinformatics (Cryo-EM and protein docking) *(Daisuke Kihara, Purdue University)*,
-          + Biomedical text mining and its application *(Shannkai Yan, National Institutes of Health)*,
-          + DNABERT: BERT models for genome DNA language *(Ramana Davuluri, Stony Brook University)*,
+          description: |2-
+            Took multiple workshops on multiple topics on the use of Machine learning in Bioinformatics from academia leaders:
+            + Machine Learning for Molecule Data (Jose Miguel, University of Cambridge),
+            + Machine Learning in Protein Structural Bioinformatics (Cryo-EM and protein docking) (Daisuke Kihara, Purdue University),
+            + Biomedical text mining and its application (Shannkai Yan, National Institutes of Health),
+            + DNABERT: BERT models for genome DNA language (Ramana Davuluri, Stony Brook University).
           organization: Computer Science department Higher School of Economics
           organization_url: ''
           title: 'Summer School on Machine Learning in Bioinformatics'
           url: ''
+
     design:
       columns: '2'
   - block: collection
