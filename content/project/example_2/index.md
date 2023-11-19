@@ -1,8 +1,8 @@
 ---
 title: 'Predicting Pneumonia Outcomes: Deep Learning and Traditional Methods'
 summary: Employment of advanced deep learning methods and traditional approaches to identify key factors in predicting clinical outcomes for severe pneumonia patients  using diverse patient data, including single-cell RNAseq and electronic health records from large-scale NIAID-funded study.
-tags: SC RNASeq, personalized medecine, clinician-involved modeling
-  - RNAseq, Differential Gene Expression, Benchmarking
+tags: 
+  - SC RNASeq, personalized medecine, clinician-involved modeling
 date: "2023-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
