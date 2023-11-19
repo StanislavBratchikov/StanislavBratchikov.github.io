@@ -3,7 +3,7 @@ title: Flow Cytometry
 summary: A machine learning classifier trained on 172 expert-annotated clinical flow cytometry samples, achieving accurate cell typing, overcoming biases, and scaling to over 1100 samples, demonstrating high accuracy and significant time savings.
 tags:
   - Flow Cytometry
-date: ''
+date: '01-10-2023'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
