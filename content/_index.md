@@ -238,7 +238,7 @@ sections:
       title: Recent Manuscripts
       text: |2-
           <u>Bratchikov S.</u>, L. Luo, S. Swaminathan, Y. Sokolenko, C Gao, E. Diaz, E. Jonasson, L. Luo, Z. Yu, A. Agrawal, RG Wudnerink, AV Misharin (manuscript)
-    *Machine learning classifier for automated and scalable analysis of clinical flow cytometry samples*
+          *Machine learning classifier for automated and scalable analysis of clinical flow cytometry samples*
     design:
       columns: '2'
       view: citation
