@@ -1,5 +1,5 @@
 ---
-title: Automated and scalable analysis of clinical flow cytometry samples using machine learning
+title: [Automated and scalable analysis of clinical flow cytometry samples using machine learning](https://stanislavbratchikov.github.io/project/example/)
 summary: A machine learning classifier trained on 172 expert-annotated clinical flow cytometry samples, achieving accurate cell typing, overcoming biases, and scaling to over 1100 samples, demonstrating high accuracy and significant time savings.
 tags:
   - Flow Cytometry
