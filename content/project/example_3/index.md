@@ -19,7 +19,7 @@ links:
     url: https://twitter.com/brtchkvs
 url_code: ''
 url_pdf: ''
-url_slides: 
+url_slides: https://docs.google.com/presentation/d/1l1zRh1nwhJxOKwIodAbxsXKHls5V1DgyfBAeG93__zI/edit?usp=sharing
 url_video: ''
 
 # Slides (optional).
