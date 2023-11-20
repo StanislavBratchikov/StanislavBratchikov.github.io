@@ -233,17 +233,24 @@ sections:
   #  design:
   #    columns: '2'
   #    view: card
-  - block: collection
+  - block: experience
     content:
       title: Recent Manuscripts
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
+      text: |
+        - **Machine learning classifier for automated and scalable analysis of clinical flow cytometry samples**
+          - *Authors:*
+            - <u>Stanislav Bratchikov</u>
+            - Cathy A. Gao
+            - Suchitra Swaminathan
+            - Yuliana Sokolenko
+            - Estefani Diaz
+            - Emmy Jonasson
+            - Lucy Luo
+            - Zhan Yu
+            - Ankit Agrawal
+            - Richard G. Wudnerink
+            - Alexander V. Misharin
+    
     design:
       columns: '2'
       view: citation
