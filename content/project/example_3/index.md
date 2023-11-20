@@ -2,7 +2,7 @@
 title: 'Developing pipeline for single cell spatial transcriptomics analysis'
 summary: Exploring single cell spatial transcriptomics, the study compared 10x Xenium and Nanostring CosMx, using Python and R tools to assess their applicability in the laboratory based on factors such as transcript coverage and specificity as well as ability to preserve biological variation.
 tags: 
-  - single cell spatial transcriptomics, CosMx, Xenium, single cell RNAseq
+  - single cell spatial transcriptomics, CosMx, Xenium, SC RNAseq
 date: "2023-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
