@@ -234,6 +234,7 @@ sections:
   #    columns: '2'
   #    view: card
   - block: experience
+    id: featured
     content:
       title: Recent Manuscripts
       text: |2-
