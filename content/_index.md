@@ -250,10 +250,24 @@ sections:
   - block: experience
     id: posters
     content:
-      title: Posters
+      title: Posters & Talks 
       text: |-
-        Check out our collection of posters from various events. 
-        These visually captivating posters showcase the breadth of our work and contributions.
+      # Posters and Talks
+
+      ## Posters
+
+      ### Machine Learning Classifier for Automated and Scalable Analysis of Clinical Flow Cytometry Samples
+      - Presented at: 2023 Systems Biology for Infectious Diseases Annual Conference, Northwestern University
+      - Presented at: 2023 Molecular Mechanisms of Lung Disease Annual Meeting, University of Helmholtz - Northwestern University Conference
+      - Presented at: 2023 The 17th Annual Lewis Landsberg Research Day, Northwestern University
+      - [Link to Poster PDF](<insert link here>)
+
+      ## Talks
+
+      ### OpenBio 2022
+      - Topic: RNA Expression-Level Heterogeneity in Cancer-Associated Stromal Cell Populations within the Tumor Microenvironment.
+
+        
     design:
       columns: '2'
       view: citation
