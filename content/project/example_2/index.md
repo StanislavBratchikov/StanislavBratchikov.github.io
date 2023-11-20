@@ -1,5 +1,5 @@
 ---
-title:  <span style="color:blue; text-decoration:underline;">Predicting Pneumonia Outcomes: Deep Learning and Traditional Methods</span>
+title: <span style="color:blue; text-decoration:underline;">Predicting Pneumonia Outcomes: Deep Learning and Traditional Methods</span>
 summary: Employment of advanced deep learning methods and traditional approaches to identify key factors in predicting clinical outcomes for severe pneumonia patients  using diverse patient data, including single-cell RNAseq and electronic health records from large-scale NIAID-funded study.
 tags: 
   - SC RNAseq
