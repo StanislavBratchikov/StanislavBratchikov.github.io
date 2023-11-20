@@ -248,7 +248,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: posters
+    #id: posters
     content:
       title: Posters
       text: |-
@@ -256,7 +256,7 @@ sections:
         These visually captivating posters showcase the breadth of our work and contributions.
     design:
       columns: '2'
-      view: compact
+      view: citation
 
   #- block: tag_cloud
   #  content:
