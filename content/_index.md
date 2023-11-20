@@ -257,8 +257,8 @@ sections:
   
         ## Talks
   
-        ### OpenBio 2022
-        - Topic: RNA Expression-Level Heterogeneity in Cancer-Associated Stromal Cell Populations within the Tumor Microenvironment.
+        ### RNA Expression-Level Heterogeneity in Cancer-Associated Stromal Cell Populations within the Tumor Microenvironment.
+        - Presented at OpenBio 2022 conference
 
         
     design:
