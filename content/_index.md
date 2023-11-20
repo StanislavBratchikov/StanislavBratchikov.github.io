@@ -247,16 +247,17 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: posters
-    content:
-      title: Posters
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+   - block: collection
+      id: posters
+      content:
+        title: Posters
+        text: |-
+          Check out our collection of posters from various events. 
+          These visually captivating posters showcase the breadth of our work and contributions.
+      design:
+        columns: '2'
+        view: compact
+
   #- block: tag_cloud
   #  content:
   #    title: Popular Topics
