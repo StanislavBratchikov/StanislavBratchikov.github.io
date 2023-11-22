@@ -36,7 +36,7 @@ interests:
 education:
   courses:
     - course: BSc in Biophysics
-      institution: Lomonosov Moscow State Univeristy
+      institution: Lomonosov Moscow State University
       year: 2022
 
 # Skills
