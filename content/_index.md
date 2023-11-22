@@ -131,7 +131,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2022-02-01'
-          description: Computer science classes focusing on latest research in various topcis ranging from graph neural networks to use of neural networks in bioinformatics  
+          description: Computer science classes focusing on latest research in various topics ranging from graph neural networks to use of neural networks in bioinformatics.  
           organization: Computer Science department Higher School of Economics
           organization_url: ''
           title: Winter Computer Science School
@@ -140,7 +140,7 @@ sections:
           date_end: '2021-12-21'
           date_start: '2021-09-01'
           description: Gained entry into genetics courses, being among the 35 students selected. Topics included Genes in populations, Complex traits genetics, Genome Wide Associated Studies.
-          organization: Moscow Insitute of Physics and Technology
+          organization: Moscow Institute of Physics and Technology
           organization_url: ''
           title: 'Quantative genetics course by prof. Yurii Aulchenko'
           url: ''
