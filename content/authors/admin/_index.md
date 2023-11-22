@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Reseacher in applied machine learning in biomedicine
+role: Reseacher in applied biomedical machine learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
