@@ -25,7 +25,7 @@ organizations:
     url: https://www.feinberg.northwestern.edu/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am focused on enhancing clinical decision making. My research interests include applications of machine learning methods in the analysis of multimodal data such as -omics data, electronic health records, flow cytometry data.
+bio: I am focused on enhancing clinical decision making. My research interests include devopment and use of machine learning methods in the analysis of multimodal data such as -omics data, electronic health records, flow cytometry data.
 # Interests to show in About widget
 interests:
   - Scalable computational biology algorithms
