@@ -30,7 +30,7 @@ url_video: ''
 slides: ""
 ---
 
-***Background:*** <br>Large scale NIAID funded study (*Successful Clinical Response In Pneumonia Treatment*) of hospitalized patients with severe pneumonia held across several years at Northwestern Memorial Hospital is collecting multiple types of patients' data including: *Single cell RNAseq*, *flow cytometry of bronchioalveolar lavage fluid*, *cytokines abundance information*, *electronic health records* that include many clinical and biological factors such as *gender* of patient or *days since intubation* of patient in icu. This data might be useful when answering following questions: 
+***Background:*** <br>Large scale NIAID funded study (*Successful Clinical Response In Pneumonia Treatment*) of hospitalized patients with severe pneumonia held across several years at Northwestern Memorial Hospital is collecting multiple types of patients' data including: *Single cell RNAseq*, *flow cytometry of bronchoalveolar lavage fluid*, *cytokines abundance information*, *electronic health records* that include many clinical and biological factors such as *gender* of patient or *days since intubation* of patient in icu. This data might be useful when answering following questions: 
 * Is immune response to various pathogens pre-programmed or adaptive?
 * Dependence of the response from secondary/primary infection?
 * Can we predict ventilator acquired pneumonia onset within the next 7 days in intensive care unit?
