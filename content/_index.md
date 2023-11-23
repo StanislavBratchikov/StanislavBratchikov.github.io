@@ -74,11 +74,14 @@ sections:
 
               * **Automated flow cytometry pipeline:** <br> 
                 
-                 Led a year-long [project](https://docs.google.com/presentation/d/10BWF-NMwT0HdYpbd-NxwFP6GKXvv9o0qpw4vTQvvwDQ/edit?usp=sharing) to implement an innovative automated flow cytometry data analysis pipeline using gradient boosting models, significantly reducing data analysis time for wet bench researchers. <br> By automating the data processing and classification steps, the pipeline improved workflow efficiency and allowed for quicker access to critical insights. This work was used for multiple projects within the laboratory. First author paper based on this work is in progress.
+                 - Led a *year-long* [project](https://docs.google.com/presentation/d/10BWF-NMwT0HdYpbd-NxwFP6GKXvv9o0qpw4vTQvvwDQ/edit?usp=sharing) to implement an innovative automated flow cytometry data analysis pipeline using gradient boosting models, significantly reducing *(1400-fold speedup)* data analysis time for wet bench researchers.
+                 - By automating the data processing and classification steps, the pipeline improved workflow efficiency and allowed for quicker access to critical insights. This work was used for multiple projects within the laboratory. *First author paper* based on this work is in progress.
               * **Differential gene expression methods benchmarking:** <br>
-                Worked with [computational biology group](https://www.mimuw.edu.pl/~szczurek/) from the university of Warsaw on a large collaborative project focusing on the analysis of single cell RNA-seq data from hundreds of patients.<br> Benchmarked traditional approaches for differential gene expression methods vs deep learning-based approaches. The results of this work were essential for downstream tasks in this project. Publication is expected in 2024.
+                 - Worked with [computational biology group](https://www.mimuw.edu.pl/~szczurek/) from the university of Warsaw on a large *collaborative project* focusing on the analysis of single cell RNA-seq data from hundreds of patients.
+                 -  Benchmarked traditional approaches for differential gene expression methods vs deep learning-based approaches. The results of this work were essential for downstream tasks in this project. *Publication is expected* in 2024.
               * **Single cell spatial transcriptomics analysis:** <br>
-                [Researched](https://docs.google.com/presentation/d/1l1zRh1nwhJxOKwIodAbxsXKHls5V1DgyfBAeG93__zI/edit?usp=sharing) spatial transcriptomics platforms (Nanostring CosMx, 10x Xenium) that helped bringing these technologies to the lab. Utilized various best-practice computational tools and techniques to decipher spatial patterns and identify potential biomarkers associated with pulmonary diseases, assessed publicly available datasets.
+                - [Researched](https://docs.google.com/presentation/d/1l1zRh1nwhJxOKwIodAbxsXKHls5V1DgyfBAeG93__zI/edit?usp=sharing) spatial transcriptomics platforms (Nanostring CosMx, 10x Xenium) that *helped* bringing these technologies to the *laboratory*.
+                - Utilized various best-practice computational tools and techniques to decipher spatial patterns and identify potential biomarkers associated with pulmonary diseases, assessed publicly available datasets.
               * **Single cell RNA-seq data analysis:**<br>
                Analyzed single-cell data from pulmonary samples to gain insights into cellular heterogeneity and molecular changes in disease conditions. Employed bioinformatics tools to preprocess and interpret single-cell RNA sequencing data, revealing critical cellular subpopulations and their functional roles.
         - title: Junior Bioinformatician
@@ -92,7 +95,9 @@ sections:
               Projects:
         
               * **Cell type deconvolution of cancer- associated fibroblasts in bulk RNA-seq data using machine learning methods with the goal to improve outcome prediction in cancer patients:**<br>
-                Actively contributed to the development of a project on classifying fibroblasts in various tumors' microenvironment using machine learning algorithms, which resulted in my thesis. Work on this project was continued and results were submitted to [AACR](https://www.aacr.org/meeting/aacr-annual-meeting-2024/).
+                - Led development of a project classifying fibroblasts in tumor microenvironments using machine learning and gene expression signatures, which resulted in my *thesis*.
+                - Presented work at OpenBio 2022.
+                - Work on this project was continued and results were submitted to [AACR 2024](https://www.aacr.org/meeting/aacr-annual-meeting-2024/).
               * **Machine learning models validation:**<br>
                 Developed a script to validate machine learning models that deconvolve sample cells' percentages based on sequencing data.
               * **Enhanced cross-team communication:**<br>
