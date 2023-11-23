@@ -86,8 +86,8 @@ sections:
                 - [Researched](https://docs.google.com/presentation/d/1l1zRh1nwhJxOKwIodAbxsXKHls5V1DgyfBAeG93__zI/edit?usp=sharing) spatial transcriptomics platforms (Nanostring CosMx, 10x Xenium) that **helped** bringing these technologies to the **laboratory**.
                 - Utilized various best-practice computational tools and techniques to decipher spatial patterns and identify potential biomarkers associated with pulmonary diseases, assessed publicly available datasets.
               * **Single cell RNA-seq data analysis:**<br>
-               - Analyzed single-cell data from pulmonary samples to gain insights into cellular heterogeneity and molecular changes in disease conditions.
-               - Employed bioinformatics tools to preprocess and interpret single-cell RNA sequencing data, revealing critical cellular subpopulations and their functional roles.
+                - Analyzed single-cell data from pulmonary samples to gain insights into cellular heterogeneity and molecular changes in disease conditions.
+                - Employed bioinformatics tools to preprocess and interpret single-cell RNA sequencing data, revealing critical cellular subpopulations and their functional roles.
         - title: Junior Bioinformatician
           company: BostonGene Corporation, Boston, MA
           company_url: 'https://bostongene.com'
