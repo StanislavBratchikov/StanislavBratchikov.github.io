@@ -93,8 +93,8 @@ sections:
           company_url: 'https://bostongene.com'
           company_logo: org-x
           location: Massachusetts 
-          date_start: '2021-01-01'
-          date_end: '2022-11-15'
+          date_start: '2021-09-21'
+          date_end: '2022-08-21'
           description: |2-
               Projects:
         
