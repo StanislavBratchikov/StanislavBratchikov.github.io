@@ -17,7 +17,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/brtchkvs
-url_code: ''
+url_code: 'https://github.com/StanislavBratchikov/Traditional_DGE_analysis_public/tree/main'
 url_pdf: ''
 url_slides: 
 url_video: ''
