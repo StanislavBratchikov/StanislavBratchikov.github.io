@@ -64,9 +64,9 @@ sections:
       items:
         - title: Computational Associate II 
           company: |2-
-      Broad Institute of MIT and Harvard,
-      <a href="https://www.massgeneral.org/">MGH</a>,
-      Boston
+          Broad Institute of MIT and Harvard,
+          <a href="https://www.massgeneral.org/">MGH</a>,
+          Boston
           company_url: 'https://www.broadinstitute.org/'
           company_logo: Broad
           location: Massachusetts 
