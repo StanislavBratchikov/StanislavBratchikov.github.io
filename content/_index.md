@@ -301,12 +301,12 @@ sections:
       text: |-
         Feel free to contact via email:
       # Contact (add or remove contact options as necessary)
-      email: stanislav.bratchikov@northwestern.edu
+      email: sbratchi@broadinstitute.org
       address:
-        street: 303 E. Superior St.
-        city: Chicago
-        region: IL 
-        postcode: '60611'
+        street: 415 Main St.
+        city: Boston
+        region: MA 
+        postcode: '02142'
         country: United States
       contact_links:
         - icon: twitter
