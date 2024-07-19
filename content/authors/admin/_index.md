@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Reseacher in biomedical machine learning
+role: Reseacher in computational biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Northwestern University
-    url: https://www.feinberg.northwestern.edu/index.html
+  - name: Broad Institute of MIT and Harvard
+    url: https://www.broadinstitute.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am focused on enhancing clinical decision making. My research interests include development and use of machine learning methods in the analysis of multimodal data such as -omics data, electronic health records, flow cytometry data.
+bio: I am focused on enhancing clinical decision making. My research interests include development and use of computational methods in the analysis of multimodal data such as -omics data, electronic health records, flow cytometry data.
 # Interests to show in About widget
 interests:
   - Scalable computational biology algorithms
@@ -113,7 +113,7 @@ social:
 highlight_name: true
 ---
 
-I am a post baccalaureate researcher at the Pulmonary department of Northwestern University, Chicago, who is focused on **developing** and applying **interpretable** machine learning **methods** to biomedicine domain. My goal is to **bridge the gap** between **clinicians** and **computational researchers** building interpretable and scalable algorithms and pipelines that handle multimodal data such as Electronic Health Records, -omics and flow cytometry data enhancing field of personalized medicine.
+I am a Computational Associate II at the Broad Institute of MIT and Harvard, Massachusetts General Hospital, who is focused on **developing** and applying **interpretable** computational **methods** to biomedicine domain. My goal is to **bridge the gap** between **clinicians** and **computational researchers** building interpretable and scalable algorithms and pipelines that handle multimodal data such as Electronic Health Records, -omics and flow cytometry data enhancing field of personalized medicine.
 <br>
 <br>
 As aspiring PhD student who is looking to study Biomedical and Computational Biology, I want to form active **clinical collaborations** to help develop accurate models for handling **multi modal** biological data. These models will be integrated into hospital workflows to **aid** clinical **decision making** and to tailor patients’ care to their unique clinical and genomic traits.
