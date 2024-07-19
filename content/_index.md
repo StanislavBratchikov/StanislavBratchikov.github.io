@@ -63,9 +63,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Computational Associate II 
-          company: Broad Institute of MIT and Harvard, Boston, MA
+          company: Broad Institute of MIT and Harvard, MGH, Boston
           company_url: 'https://www.broadinstitute.org/'
-          company_logo: org-x
+          company_logo: Broad
           location: Massachusetts 
           date_start: '2024-07-01'
           date_end: ''
