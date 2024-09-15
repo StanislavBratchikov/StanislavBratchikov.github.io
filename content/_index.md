@@ -75,7 +75,6 @@ sections:
               * **RNA-Seq analysis and Tandem Mass Seq Proteomincs analysis:**<br>
                 - Developing and maintenaning computational pipelines using publicly available and in-house developed tools for the analysis of experiment data.
                 - Monitoring statistical aspects of study/experiment design, identification of appropriate tests and models, data analysis and visualization, assuring quality of data.
-items:
         - title: Intern 
           company: Stanford School of Medecine
           company_url: 'https://med.stanford.edu/'
