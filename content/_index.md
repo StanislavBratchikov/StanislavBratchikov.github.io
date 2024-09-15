@@ -75,7 +75,18 @@ sections:
               * **RNA-Seq analysis and Tandem Mass Seq Proteomincs analysis:**<br>
                 - Developing and maintenaning computational pipelines using publicly available and in-house developed tools for the analysis of experiment data.
                 - Monitoring statistical aspects of study/experiment design, identification of appropriate tests and models, data analysis and visualization, assuring quality of data.
-
+items:
+        - title: Intern 
+          company: Stanford School of Medecine
+          company_url: 'https://med.stanford.edu/'
+          company_logo: Stanford
+          location: remote 
+          date_start: '2024-05-01'
+          date_end: '2024-06-01'
+          description: |2-
+              Projects:
+              * **Machine learning models deconvolution:**<br>
+                - Assessed performance of machine learning models for tumor micro-environment deconvolution using statistical methods.
         - title: Post-baccalaureate researcher
           company: Northwestern University, Chicago
           company_url: 'https://www.feinberg.northwestern.edu/index.html'
