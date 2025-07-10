@@ -282,7 +282,7 @@ sections:
       text: |-
         ## Posters
   
-        ### [Machine Learning Classifier for Automated and Scalable Analysis of Clinical Flow Cytometry Samples] (https://stanislavbratchikov.github.io/uploads/Bratchikov_poster.pdf)  Bratchikov S. et al
+        ### [Machine Learning Classifier for Automated and Scalable Analysis of Clinical Flow Cytometry Samples](https://stanislavbratchikov.github.io/uploads/Bratchikov_poster.pdf)  Bratchikov S. et al
         - Presented at: 2023 Systems Biology for Infectious Diseases Annual Conference, Northwestern University
         - Presented at: 2023 Molecular Mechanisms of Lung Disease Annual Meeting, University of Helmholtz - Northwestern University Conference
         - Presented at: 2023 The 17th Annual Lewis Landsberg Research Day, Northwestern University
@@ -313,15 +313,15 @@ sections:
       email: sbratchi@broadinstitute.org
       address:
         street: 415 Main St.
-        city: Boston
+        city: Cambridge
         region: MA 
         postcode: '02142'
         country: United States
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/brtchkvs'
+      # contact_links:
+      #  - icon: twitter
+      #    icon_pack: fab
+     #     name: DM Me
+     #     link: 'https://twitter.com/brtchkvs'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
