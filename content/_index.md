@@ -97,15 +97,14 @@ sections:
               Projects:
 
               * **Automated flow cytometry pipeline:** <br> 
-                - Led a **year-long** [project](https://docs.google.com/presentation/d/10BWF-NMwT0HdYpbd-NxwFP6GKXvv9o0qpw4vTQvvwDQ/edit?usp=sharing) to implement an innovative automated flow cytometry data analysis pipeline using gradient boosting models, significantly reducing **(1400-fold speedup)** data analysis time for wet bench researchers.
+                - Led a [project](https://docs.google.com/presentation/d/10BWF-NMwT0HdYpbd-NxwFP6GKXvv9o0qpw4vTQvvwDQ/edit?usp=sharing) to implement an innovative automated flow cytometry data analysis pipeline using gradient boosting models, significantly reducing **(1400-fold speedup)** data analysis time for wet bench researchers.
                 - By automating the data processing and classification steps, the pipeline improved workflow efficiency and allowed for quicker access to critical insights.
                 - This work was used for **multiple projects** within the laboratory.
-                - **First author paper** based on this work is in progress.
               * **Differential gene expression methods benchmarking:** <br>
                 - Worked with [computational biology group](https://www.mimuw.edu.pl/~szczurek/) from the university of Warsaw on a large **collaborative project** focusing on the analysis of single cell RNA-seq data from hundreds of patients.
                 -  Benchmarked traditional approaches for differential gene expression methods vs deep learning-based approaches.
                 - The results of this work were essential for downstream tasks in this project.
-                - **Publication** is expected in 2024.
+                - The project is still in revision-stage (2025)
               * **Single cell spatial transcriptomics analysis:** <br>
                 - [Researched](https://docs.google.com/presentation/d/1l1zRh1nwhJxOKwIodAbxsXKHls5V1DgyfBAeG93__zI/edit?usp=sharing) spatial transcriptomics platforms (Nanostring CosMx, 10x Xenium) that **helped** bringing these technologies to the **laboratory**.
                 - Utilized various best-practice computational tools and techniques to decipher spatial patterns and identify potential biomarkers associated with pulmonary diseases, assessed publicly available datasets.
@@ -271,8 +270,8 @@ sections:
     content:
       title: Manuscripts In Progress
       text: |2-
-          **Bratchikov S.**, L. Luo, S. Swaminathan, Y. Sokolenko, C. Gao, E. Diaz, E. Jonasson, L. Luo, Z. Yu, A. Agrawal, RG Wudnerink, AV Misharin (manuscript)
-          *Machine learning classifier for automated and scalable analysis of clinical flow cytometry samples*
+          Hercher T.W., To T.L., McCoy J., Wu A., **Bratchikov S.**, Durham T., Vantaku V.R., Parangi S., Mootha V.K. (in preparation)
+          *Robust Generation of Oxygen at the Surface of Human Cells via Plasma Membrane-Targeted SNORCL*
     design:
       columns: '2'
       view: citation
@@ -283,7 +282,7 @@ sections:
       text: |-
         ## Posters
   
-        ### [Machine Learning Classifier for Automated and Scalable Analysis of Clinical Flow Cytometry Samples](https://stanislavbratchikov.github.io/uploads/Bratchikov_poster.pdf)
+        ### [Machine Learning Classifier for Automated and Scalable Analysis of Clinical Flow Cytometry Samples] (https://stanislavbratchikov.github.io/uploads/Bratchikov_poster.pdf)  Bratchikov S. et al
         - Presented at: 2023 Systems Biology for Infectious Diseases Annual Conference, Northwestern University
         - Presented at: 2023 Molecular Mechanisms of Lung Disease Annual Meeting, University of Helmholtz - Northwestern University Conference
         - Presented at: 2023 The 17th Annual Lewis Landsberg Research Day, Northwestern University
