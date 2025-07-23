@@ -273,6 +273,9 @@ sections:
       text: |2-
           Hercher T.W., To T.L., McCoy J., Wu A., **Bratchikov S.**, Durham T., Vantaku V.R., Parangi S., Mootha V.K. (in preparation)
           *Robust Generation of Oxygen at the Surface of Human Cells via Plasma Membrane-Targeted SNORCL*
+          
+          Fenske S.W., Peltekian A., Kang M., Markov N.S., Zhu M., Grudzinski K., Bak M.J., Pawlowski A., Gupta V., Mao Y., **Bratchikov S.**, Stoeger T., Rasmussen L.V., Choudhary A.N., Misharin A.V., Singer B.D., Budinger G.R.S., Wunderink R.G., Agrawal A., Gao C.A., and the NU SCRIPT Study Group (in preparation)
+          *Developing and validating a machine learning model to predict successful next-day extubation in the ICU*
     design:
       columns: '2'
       view: citation
