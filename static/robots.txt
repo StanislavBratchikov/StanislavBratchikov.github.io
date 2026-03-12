@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stanislavbratchikov.github.io/sitemap.xml
